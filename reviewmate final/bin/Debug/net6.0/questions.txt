@@ -1,0 +1,12 @@
+IPO Stands for?|Input Process Output
+PDLC Stands for?|Program Development Life Cycle
+UML Stands for?|Unified Modeling Language
+CLR Stands for?|Common Language Runtime
+IL Stands for?|Intermediate Language
+JIT Stands for?|Just In Time
+IDE Stands for?|Integrated Development Environment
+GUI Stands for?|Graphic User Interface
+CSS Stands for?|Cascading Style Sheet
+HTML Stands for?|HyperText Markup Language
+who i am?|gene justin sacop
+who is my partner?|angeles mendoza

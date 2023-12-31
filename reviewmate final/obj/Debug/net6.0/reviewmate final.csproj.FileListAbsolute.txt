@@ -1,0 +1,14 @@
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\bin\Debug\net6.0\reviewmate final.exe
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\bin\Debug\net6.0\reviewmate final.deps.json
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\bin\Debug\net6.0\reviewmate final.runtimeconfig.json
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\bin\Debug\net6.0\reviewmate final.dll
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\bin\Debug\net6.0\reviewmate final.pdb
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.AssemblyInfoInputs.cache
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.AssemblyInfo.cs
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.csproj.CoreCompileInputs.cache
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.dll
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\refint\reviewmate final.dll
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.pdb
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\reviewmate final.genruntimeconfig.cache
+C:\Users\Gene Justin Sacop\source\repos\reviewmate final\reviewmate final\obj\Debug\net6.0\ref\reviewmate final.dll
